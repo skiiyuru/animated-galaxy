@@ -1,5 +1,7 @@
 # Animated Galaxy
 
+[It's live](https://kiiyuru-galaxy.vercel.app/)
+
 ## Setup
 
 Download [Node.js](https://nodejs.org/en/download/).
